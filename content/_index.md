@@ -74,6 +74,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      columns: 3
 
   # - block: collection
   #   id: talks
