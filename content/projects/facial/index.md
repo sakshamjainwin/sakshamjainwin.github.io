@@ -1,14 +1,14 @@
 ---
-title: SnapInsure
-date: 2024-10-26
+title: Facial Expression Recognition
+date: 2023-10-26
 links:
   - type: site
-    url: https://github.com/sakshamjainwin/SnapInsure
+    url: https://github.com/sakshamjainwin/Facial-Expression-Recognition-using-CNN-and-ResNet-50
 tags:
-  - LLMs
-  - Agentic AI
-  - RAG
+  - Computer Vision
+  - Supervised Learning
 ---
 
-SnapInsure, powered by a RAG-based AI humanoid assistant and the ON DEMAND platform, revolutionizes the insurance experience!
+This repository showcases an award-winning implementation of Facial Expression Recognition (FER) using deep learning techniques. The project includes models built with a Custom CNN Architecture and ResNet-50, along with real-time emotion detection capabilities. The models classify facial expressions into seven categories: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral. The dataset used is the FER-2013 dataset.
+
 <!--more-->
