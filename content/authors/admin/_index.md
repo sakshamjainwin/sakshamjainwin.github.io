@@ -14,7 +14,7 @@ last_name: Jain
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,81 +23,66 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Student AI Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: MIT CSAIL
+    url: https://compbio.mit.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:sakshamjaindtu@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/sakshamjainwin
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/saksham-jain-dtu/
 
 interests:
-  - Large Language Models
+  - Deep Learning
+  - Machine Learning
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Agentic AI & Autonomous Systems
+  - Multimodal AI
+  - Large Language Models (LLMs)
+  - Generative AI
+
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: B.Tech
+    institution: Delhi Technological University (DTU)
+    date_start: 2023-08-01
+    date_end: 2027-06-01
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
+      CGPA: 8.72/10  
+      Research Head at AI Club (AIMS-DTU).
+      
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: AI Research Intern
+    company_name: MIT CSAIL
+    company_url: 'https://www.csail.mit.edu/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-06-01
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+  - position: AI Software Intern
+    company_name: AmberFlux EdgeAI Pvt. Ltd.
+    company_url: 'https://www.amberflux.com/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2024-11-01
+    date_end: 2025-01-31
+    summary: |
+      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - position: ML Research Intern
+    company_name: Delhi Technological University
+    company_url: 'https://dtu.ac.in/'
+    icon: ''
+    date_start: 2024-06-01
+    date_end: 2024-08-01
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
@@ -135,38 +120,37 @@ skills:
         percent: 70
         icon: book-open
 
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Winner – Adobe Devcraft
+    date: '2024-08-01'
+    awarder: Adobe
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
+      Built a Real-Time Bidding Optimization Engine.
+
+  - title: Winner – Microsoft Code Crunch ML Challenge
+    awarder: Microsoft
+    date: '2023-12-01'
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+      Built real-time facial expression recognition system.
+
+  - title: National Finalist – Smart India Hackathon 2024
+    url: 'https://sih.gov.in/'
+    awarder: Govt. of India
+    date: '2024-02-01'
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Built operational management system for Indo-Tibetan Border Police.
+
+  - title: Winner – Silicon Chip Smackdown (APOGEE 2023, BITS Pilani)
+    awarder: BITS Pilani
+    date: '2023-03-01'
+    summary: |
+      Built an AI Poker Bot for No-Limit Texas Hold’em.
+
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent. haha hello
+Saksham Jain is an AI researcher specializing in Large Language Models, Knowledge Graphs, and Deep Learning systems. He has worked at MIT CSAIL and AmberFlux EdgeAI, publishing at IJCNN and CoCoLe. His work spans RAG systems, low-light image enhancement, graph embeddings, and multimodal ML pipelines. He has won multiple national ML hackathons and actively contributes to student-led AI communities at DTU.
