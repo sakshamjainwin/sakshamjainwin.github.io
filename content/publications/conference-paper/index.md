@@ -45,7 +45,7 @@ featured: true
 # Custom links
 links:
 - type: pdf
-  url: https://confcats-event-sessions.s3.amazonaws.com/ijcnn25/papers/2823.pdf
+  url: https://ieeexplore.ieee.org/document/11227405
 - type: code
   url: github.com/sakshamjainwin/IllumiCurveNet-IJCNN-2025
 
