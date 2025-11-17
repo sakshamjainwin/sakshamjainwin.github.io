@@ -8,7 +8,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-# date: "2015-09-01T00:00:00Z"
+date: "2025-08-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -16,7 +16,7 @@ author_notes:
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*International Conference on Computing, Communication and Learning 2025*"

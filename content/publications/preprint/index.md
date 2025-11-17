@@ -1,13 +1,14 @@
 ---
 title: "GESA: Graph-Enhanced Semantic Allocation for Generalized, Fair, and Explainable Candidate-Role Matching"
 authors:
-- admin
 - Rishi Ashish Shah
 - Shivaay Dhondiyal
 - Kartik Sharma
 - Sukriti Talwar
+- admin
 - Sparsh Jain
-# date: "2019-04-07T00:00:00Z"
+
+date: "2025-09-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
