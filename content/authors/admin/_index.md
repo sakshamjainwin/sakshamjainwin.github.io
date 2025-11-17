@@ -27,8 +27,8 @@ role: Student AI Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: MIT CSAIL
-    url: https://compbio.mit.edu/
+  - name: AIMS-DTU | MIT CSAIL
+    url: https://aimsdtu.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -57,8 +57,10 @@ education:
     date_start: 2023-08-01
     date_end: 2027-06-01
     summary: |
-      CGPA: 8.72/10  
+      CGPA: 8.72/10
+        
       Research Head at AI Club (AIMS-DTU).
+      https://aimsdtu.in/
       
 work:
   - position: AI Research Intern
@@ -67,58 +69,58 @@ work:
     icon: ''
     date_start: 2025-06-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+    summary: |3-
+       Built a high-throughput Knowledge Graph generation pipeline using LLMs, scaling async extraction to thousands of triples with ~90% accuracy. I improved KG precision by 25% through canonical entity pruning and designed embedding-based clustering and interactive graph visualization for high-fidelity analysis. 
   - position: AI Software Intern
     company_name: AmberFlux EdgeAI Pvt. Ltd.
     company_url: 'https://www.amberflux.com/'
     icon: ''
     date_start: 2024-11-01
     date_end: 2025-01-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    summary: |3-
+       Engineered an Azure-deployed RAG system by fine-tuning LLaMA with LoRA and integrating LlamaIndex + LangChain for customer feedback intelligence. Delivered a 0.82 custom evaluation score and cut deployment latency by 15% through optimized model and vector-store design. 
   - position: ML Research Intern
     company_name: Delhi Technological University
     company_url: 'https://dtu.ac.in/'
     icon: ''
     date_start: 2024-06-01
     date_end: 2024-08-01
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    summary: |2-
+      I developed a predictive ML pipeline for e-commerce purchase intent using advanced feature engineering and ensemble modeling. Achieved strong robustness on imbalanced data with hybrid sampling, reaching an F1 of 0.71 and AUC-ROC of 0.93. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python & PyTorch
+#         description: ''
+#         percent: 95
+#         icon: code-bracket
+#       - name: Machine Learning
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: Cloud Computing (AWS/GCP)
+#         description: ''
+#         percent: 85
+#         icon: cloud
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking in the Rockies
+#         description: ''
+#         percent: 80
+#         icon: person-simple-walk
+#       - name: Building Custom PCs
+#         description: ''
+#         percent: 90
+#         icon: cpu-chip
+#       - name: Sci-Fi Reading
+#         description: ''
+#         percent: 70
+#         icon: book-open
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -152,5 +154,4 @@ awards:
       Built an AI Poker Bot for No-Limit Texas Hold’em.
 
 ---
-
-Saksham Jain is an AI researcher specializing in Large Language Models, Knowledge Graphs, and Deep Learning systems. He has worked at MIT CSAIL and AmberFlux EdgeAI, publishing at IJCNN and CoCoLe. His work spans RAG systems, low-light image enhancement, graph embeddings, and multimodal ML pipelines. He has won multiple national ML hackathons and actively contributes to student-led AI communities at DTU.
+I’m Saksham Jain, a 3rd-year B.Tech student at DTU. I recently worked with MIT CSAIL (#1 AI Lab in world), where I built LLM-based agent workflows to generate knowledge graphs and extract structured insights from messy, unstructured text. I also have a first-author publication at IJCNN 2025 (presented in Rome!). I love working with GenAI/LLMs: RAG pipelines, agentic systems, vector DBs, and training/evaluation frameworks (PyTorch/TensorFlow). I’ve shipped projects end-to-end, including deployment on AWS/GCP.
