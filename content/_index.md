@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: 'headings'
+        about: 'About'
         education: ''
         interests: ''
     design:
@@ -51,7 +51,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
 
   - block: collection
     content:
@@ -63,6 +63,18 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+  - block: Experience
+    content:
+      title: Experience
+      text: ''
+      filters:
+        folders:
+          - experience
+        exclude_featured: false
+    design:
+      view: citation
+
   # - block: collection
   #   id: talks
   #   content:
