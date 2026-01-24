@@ -42,6 +42,8 @@ profiles:
     url: https://www.linkedin.com/in/saksham-jain-dtu/
   - icon: /workspaces/sakshamjainwin.github.io/assets/media/icons/custom/Google_Scholar_logo.svg.png
     url: https://scholar.google.com/citations?hl=en&user=EVeri1QAAAAJ&view_op=list_works
+  - icon: at-symbol
+    url: https://scholar.google.com/citations?hl=en&user=EVeri1QAAAAJ&view_op=list_works
 
 interests:
   - Deep Learning
