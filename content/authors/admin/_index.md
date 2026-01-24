@@ -40,9 +40,11 @@ profiles:
     url: https://github.com/sakshamjainwin
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/saksham-jain-dtu/
-  - icon: - icon: graduation-cap
+  - icon: graduation-cap
     url: https://scholar.google.com/citations?hl=en&user=EVeri1QAAAAJ&view_op=list_works
     label: Google Scholar
+  - icon: brands/graduation-cap
+    url: https://scholar.google.com/citations?hl=en&user=EVeri1QAAAAJ&view_op=list_works
     
 
 interests:
