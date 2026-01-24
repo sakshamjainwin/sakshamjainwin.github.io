@@ -36,9 +36,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:sakshamjaindtu@gmail.com'
     label: E-mail Me
-  - icon: at-symbol
-    url: 'mailto:sakshamjaindtu@gmail.com'
-    label: E-mail Me
   - icon: brands/github
     url: https://github.com/sakshamjainwin
   - icon: brands/linkedin
