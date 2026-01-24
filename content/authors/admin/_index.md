@@ -43,8 +43,6 @@ profiles:
   - icon: uploads/google-scholar-logo.png
     url: https://scholar.google.com/citations?hl=en&user=EVeri1QAAAAJ&view_op=list_works
     label: Google Scholar
-  - icon: brands/graduation-cap
-    url: https://scholar.google.com/citations?hl=en&user=EVeri1QAAAAJ&view_op=list_works
     
 
 interests:
