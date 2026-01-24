@@ -36,13 +36,15 @@ profiles:
   - icon: at-symbol
     url: 'mailto:sakshamjaindtu@gmail.com'
     label: E-mail Me
+  - icon: at-symbol
+    url: 'mailto:sakshamjaindtu@gmail.com'
+    label: E-mail Me
   - icon: brands/github
     url: https://github.com/sakshamjainwin
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/saksham-jain-dtu/
-  - icon: uploads/google-scholar-logo.png
+  - icon: brands/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=EVeri1QAAAAJ&view_op=list_works
-    label: Google Scholar
     
 
 interests:
